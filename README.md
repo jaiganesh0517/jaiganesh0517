@@ -68,8 +68,8 @@
 **[MiniBlog](https://github.com/jaiganesh0517/MiniBlog)**
 RESTful blog API with JWT authentication, built with Spring Boot, Spring Security, and JPA/Hibernate.
 
-**[UserAuthenticationSystem](https://github.com/jaiganesh0517/UserAuthSystem)**
-A backend‑focused authentication system built with JSP, Servlets, JDBC, and HTML. Includes user registration and login functionality with database integration.
+**[HireBridge](https://github.com/jaiganesh0517/HireBridge)**
+A backend‑focused application made for job seekar as well as for recruiter to post job and for seekar apply to the job.
 
 ---
 
