@@ -65,6 +65,9 @@
 
 ### 📌 Featured Projects
 
+**[HireBridge](https://github.com/jaiganesh0517/Hirebridge)**
+A full-stack placement/internship portal connecting students and recruiters, built as a portfolio project while preparing for campus placements.
+
 **[MiniBlog](https://github.com/jaiganesh0517/MiniBlog)**
 RESTful blog API with JWT authentication, built with Spring Boot, Spring Security, and JPA/Hibernate.
 
