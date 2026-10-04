@@ -71,8 +71,8 @@ A full-stack placement/internship portal connecting students and recruiters, bui
 **[MiniBlog](https://github.com/jaiganesh0517/MiniBlog)**
 RESTful blog API with JWT authentication, built with Spring Boot, Spring Security, and JPA/Hibernate.
 
-**[HireBridge](https://github.com/jaiganesh0517/HireBridge)**
-A backend‑focused application made for job seekar as well as for recruiter to post job and for seekar apply to the job.
+**[InstantFix](https://github.com/jaiganesh0517/InstantFix)**
+Instant Fix is an AI-powered on-demand home services platform that connects users with verified local professionals — electricians, plumbers, car mechanics, and more — in minutes.
 
 ---
 
