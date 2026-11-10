@@ -68,8 +68,8 @@
 **[HireBridge](https://github.com/jaiganesh0517/Hirebridge)**
 A full-stack placement/internship portal connecting students and recruiters, built as a portfolio project while preparing for campus placements.
 
-**[MiniBlog](https://github.com/jaiganesh0517/MiniBlog)**
-RESTful blog API with JWT authentication, built with Spring Boot, Spring Security, and JPA/Hibernate.
+**[Url-Shortener](https://github.com/jaiganesh0517/url-shortener)**
+URL shortener REST API built with Spring Boot and PostgreSQL. Generates compact Base62 short codes from database IDs, with request validation and layered architecture (controller, service, repository, DTOs).
 
 **[InstantFix](https://github.com/jaiganesh0517/InstantFix)**
 Instant Fix is an AI-powered on-demand home services platform that connects users with verified local professionals — electricians, plumbers, car mechanics, and more — in minutes.
